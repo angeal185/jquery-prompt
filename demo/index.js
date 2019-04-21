@@ -15,6 +15,7 @@ $.xPromptQ.defaults = {
 $('.ptest').on('click', function(){
   $.xPrompt({header: 'header', placeholder: 'enter text'}, function(i){
     // do something with data
+    $('#test').text(i)
     console.log(i)
   })
 })
@@ -23,6 +24,7 @@ $('.ptest').on('click', function(){
 $('.ptestQ').on('click', function(){
   $.xPromptQ({header: 'are you sure'}, function(i){
     // do something with data
+    $('#test').text(i)
     console.log(i)
   })
 })
