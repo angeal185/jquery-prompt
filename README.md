@@ -11,8 +11,8 @@ $ npm install jquery-prompt
 
 #### electron
 ensure jquery is installed.
-```sh
-$ require('jquery-prompt');
+```js
+require('jquery-prompt');
 ```
 ```html
 <link rel="stylesheet" href="./dist/css/jq-prompt.min.css">
