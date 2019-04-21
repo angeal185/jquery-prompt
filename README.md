@@ -1,6 +1,8 @@
 # jquery-prompt
-jquery prompt plugin for electron and the browser
+jquery prompt plugin for electron and the browser.
+
 demo: https://angeal185.github.io/jquery-prompt/
+
 ### Installation
 
 npm
