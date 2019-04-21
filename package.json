@@ -6,7 +6,9 @@
   "keywords": [
     "jquery",
     "plugin",
-    "prompt"
+    "prompt",
+    "electron",
+    "browser"
   ],
   "author": "ben eaves",
   "license": "MIT",
