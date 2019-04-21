@@ -16,5 +16,8 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/angeal185/jquery-prompt.git"
+  },
+  "dependencies": {
+    "jquery": "^3.4.0"
   }
 }
